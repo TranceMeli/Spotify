@@ -8,6 +8,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-visualization-4C72B0?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Plotly-interactive%20dashboard-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+## Preview
+
+![Dashboard Preview](images/spotify_screen.png)
+
 Analysis of the **Most Streamed Spotify Songs 2023** dataset from Kaggle.
 
 The goal of this project is to explore and visualize characteristics of Spotify's most streamed songs in 2023, with a focus on musical and audio-related features such as **Key, Mode, BPM, Danceability, Energy** and other song attributes.
@@ -60,6 +64,9 @@ spotify-analysis/
 │
 ├── dashboard/
 │   └── spotify_dashboard.ipynb
+│
+├── images/
+│   └── spotify_screen.png
 │
 └── README.md
 ```
