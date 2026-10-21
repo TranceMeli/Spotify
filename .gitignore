@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.idea/
+.vscode/
+
+# Data (Kaggle license unclear: download it yourself, see data/README.md)
+data/raw/*
+data/processed/*
